@@ -1,7 +1,7 @@
 # Ejercicios hechos con Java
   En este repositorio voy a ir subiendo ejercicios hechos con Java.
 
-Tarea 1 -> Nombre de la tarea: DetalleDeFactura
+  *Tarea 1* -> Nombre de la tarea: DetalleDeFactura
 
 -> Descripción:
 
@@ -25,7 +25,7 @@ Tarea 1 -> Nombre de la tarea: DetalleDeFactura
 -> Ejemplo: La factura producto de oficina tiene un total bruto de 134.78, con un impuesto de 25.6082 y el monto después de impuesto es de 160.3882
 
 
-Tarea 2 -> Nombre de la tarea: manejoDeNombres
+*Tarea 2* -> Nombre de la tarea: manejoDeNombres
 
 -> Descripción:
 
