@@ -14,8 +14,7 @@
         1) el nombre de la factura.
         2) el monto total bruto (antes de impuesto).
         3) el impuesto.
-        4) y el monto total neto incluyendo impuesto. Ejemplo:
-
+        4) y el monto total neto incluyendo impuesto.
   3. Ejemplo: La factura producto de oficina tiene un total bruto de 134.78, con un impuesto de 25.6082 y el monto después de impuesto es de 160.3882
 
 
