@@ -7,21 +7,16 @@
      1. Utilizando la clase Scanner:
         1) obtén el nombre de la factura con el método nextLine() -> esto te permite mantener los espacios si los hay.
         2) obtén 2 precios de productos de tipo double con el método nextDouble().
+     2. Suma ambos precios
+     3. Calcula el valor del impuesto de un 19%
+     4. Calcula el total con el impuesto
+     5. Se pide mostrar en un solo String.
+        1) el nombre de la factura.
+        2) el monto total bruto (antes de impuesto).
+        3) el impuesto.
+        4) y el monto total neto incluyendo impuesto. Ejemplo:
 
-2\. Suma ambos precios
-
-3\. Calcula el valor del impuesto de un 19%
-
-4\. Calcula el total con el impuesto
-
-5\. Se pide mostrar en un solo String:
-
-1) el nombre de la factura
-1) el monto total bruto (antes de impuesto),
-1) el impuesto
-1) y el monto total neto incluyendo impuesto. Ejemplo:
-
--> Ejemplo: La factura producto de oficina tiene un total bruto de 134.78, con un impuesto de 25.6082 y el monto después de impuesto es de 160.3882
+  3. Ejemplo: La factura producto de oficina tiene un total bruto de 134.78, con un impuesto de 25.6082 y el monto después de impuesto es de 160.3882
 
 
 *Tarea 2* -> Nombre de la tarea: manejoDeNombres
