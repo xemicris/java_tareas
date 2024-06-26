@@ -5,7 +5,7 @@
   
   1. Nombre de la tarea: DetalleDeFactura
   2. Descripción:
-    2.1. Utilizando la clase Scanner
+  2.1. Utilizando la clase Scanner
                
 
     Tarea 2 -> Nombre de la tarea: manejoDeNombres
