@@ -1,13 +1,12 @@
 # Ejercicios hechos con Java
   En este repositorio voy a ir subiendo ejercicios hechos con Java.
 
-  *Tarea 1* -> Nombre de la tarea: DetalleDeFactura
-
--> Descripción:
-
-1. Utilizando la clase Scanner:
-1) obtén el nombre de la factura con el método nextLine() -> esto te permite mantener los espacios si los hay.
-1) obtén 2 precios de productos de tipo double con el método nextDouble().
+  *Tarea 1*
+  1. Nombre de la tarea: DetalleDeFactura
+  2. Descripción:
+     1. Utilizando la clase Scanner:
+        1) obtén el nombre de la factura con el método nextLine() -> esto te permite mantener los espacios si los hay.
+        2) obtén 2 precios de productos de tipo double con el método nextDouble().
 
 2\. Suma ambos precios
 
