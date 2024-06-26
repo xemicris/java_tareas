@@ -1,9 +1,8 @@
 # Ejercicios hechos con Java
   En este repositorio voy a ir subiendo ejercicios hechos con Java.
   
-  Tarea 1
-    1. Nombre de la tarea: DetalleDeFactura
-    2. Descripción:
+  1. Nombre de la tarea: DetalleDeFactura
+  2. Descripción:
 
 
     Tarea 2 -> Nombre de la tarea: manejoDeNombres
