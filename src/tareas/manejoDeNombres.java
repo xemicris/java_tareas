@@ -2,21 +2,8 @@ package tareas;
 
 import java.util.Scanner;
 
-public class ProgramaManejoDeNombres {
+public class manejoDeNombres {
     public static void main(String[] args) {
-        /* 1. Nombre clase: ProgramaManejoDeNombres:
-            2.Recibe nombres de 3 integrantes de tu familia o amigos como argumentos de línea de comandos.
-            3. Se pide por cada nombre de la persona:
-                a) una nueva variable del tipo String 
-                b) tomar el segundo carácter y convertirlo en mayúscula
-                c) se le concatena un punto y los dos últimos caracteres de la persona. 
-                    Por ejemplo para Andres debe quedar como N.es
-
-            4. Debe imprimir como resultado los tres nuevos nombres separado con guion bajo (como una única variable).
-
-                Ejemplo, un resultado final esperado para los nombres Andres, Maria y Pepe podría ser:
-
-                    N.es_A.ia_E.pe*/
 
         Scanner sc = new Scanner(System.in);
 
