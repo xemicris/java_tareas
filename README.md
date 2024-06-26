@@ -1,7 +1,7 @@
 # Ejercicios hechos con Java
   En este repositorio voy a ir subiendo ejercicios hechos con Java.
 
-  *Tarea 1*
+  **_Tarea 1_**
   1. Nombre de la tarea: DetalleDeFactura
   2. Descripción:
      1. Utilizando la clase Scanner:
@@ -18,7 +18,7 @@
   3. Ejemplo: La factura producto de oficina tiene un total bruto de 134.78, con un impuesto de 25.6082 y el monto después de impuesto es de 160.3882
 
 
-*Tarea 2*
+**_Tarea 2_**
   1. Nombre de la tarea: manejoDeNombres
   2. Descripción:
      1) Utilizando la clase Scanner obtén los nombres de 3 integrantes de tu familia o amigos, como argumentos de línea de comandos.
