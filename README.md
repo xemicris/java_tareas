@@ -25,9 +25,8 @@
      2) Se pide por cada nombre de la persona:
         1. una nueva variable del tipo String
         2. tomar el segundo carácter y convertirlo en mayúscula
-        3. se le concatena un punto y los dos últimos caracteres de la persona.
-
-    3) Debe imprimir como resultado los tres nuevos nombres separado con guion bajo (como una única variable).
+        3. se le concatena un punto y los dos últimos caracteres de la persona.  
+     3) Debe imprimir como resultado los tres nuevos nombres separado con guion bajo (como una única variable).
 
   3. Ejemplo: un resultado final esperado para los nombres xemicris, Maria y Pili podría ser: E.is\_A.ia\_I.li
 
