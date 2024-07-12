@@ -30,4 +30,11 @@
 
   3. Ejemplo: un resultado final esperado para los nombres xemicris, Maria y Pili podría ser: E.is\_A.ia\_I.li
 
+**_Tarea 3_**
+  1. Nombre de la tarea: ordenarDosNumeros
+  2. Descripción:
+     1) Utilizando la clase Scanner obtén dos números y posteriormente ordenalos de mayor a menor e imprímelos por consola.
+
+  3. Ejemplo: un resultado final esperado para los nombres xemicris, Maria y Pili podría ser: E.is\_A.ia\_I.li
+
 > Portafolio: [xemicris.com](https://xemicris.com)
