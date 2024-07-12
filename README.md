@@ -48,5 +48,13 @@
         5) Si está entre 60 y menor a 70: imprimir Estanque casi lleno.
         6) Si la capacidad actual es 70 litros: imprimir Estanque lleno.
       2. Utilizar el tipo "double" con una precisión de dos dígitos
+    
+  **_Tarea 5_**
+  1. Nombre de la tarea: nombreMasLargo
+  2. Descripción:
+     1. Muestra el nombre más largo de 3 introducidos por el usuario con los siguientes requisitos:
+        1) Obtén 3 nombres + apellidos utilizando la clase JOptionPane y el método showInputDialog().
+        2) Calcula e imprime el nombre (sin el apellido) más largo (con más caracteres) e y muéstralo en un                 mensaje a través del método showMessageDialog que diga: "El nombre más largo es ...".
+        3) No se pueden utilizar bucles.
 
 > Portafolio: [xemicris.com](https://xemicris.com)
