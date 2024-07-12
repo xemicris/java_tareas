@@ -37,4 +37,16 @@
 
   3. Ejemplo: un resultado final esperado para los nombres xemicris, Maria y Pili podría ser: E.is\_A.ia\_I.li
 
+**_Tarea 4_**
+  1. Nombre de la tarea: estanqueGasolina
+  2. Descripción:
+     1. Supón un estanque de gasolina con capacidad 70 litros, se requiere un programa que pida la medida actual en litros y muestre el resultado de la         siguiente forma
+        1) Si está entre 1 y menor a 20: imprimir Insuficiente.
+        2) Si está entre 20 y menor a 35: imprimir Suficiente.
+        3) Si está entre 35 y menor a 40: imprimir Medio Estanque.
+        4) Si está entre 40 y menor a 60: imprimir Estanque  3/4.
+        5) Si está entre 60 y menor a 70: imprimir Estanque casi lleno.
+        6) Si la capacidad actual es 70 litros: imprimir Estanque lleno.
+      2. Utilizar el tipo "double" con una precisión de dos dígitos
+
 > Portafolio: [xemicris.com](https://xemicris.com)
